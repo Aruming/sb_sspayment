@@ -2,7 +2,7 @@ package com.ll.exam.app__2022_10_11.app.base.initData;
 
 import com.ll.exam.app__2022_10_11.app.cart.service.CartService;
 import com.ll.exam.app__2022_10_11.app.member.service.MemberService;
-import com.ll.exam.app__2022_10_11.app.order.serice.OrderService;
+import com.ll.exam.app__2022_10_11.app.order.service.OrderService;
 import com.ll.exam.app__2022_10_11.app.song.service.SongService;
 import com.ll.exam.app__2022_10_11.product.service.ProductService;
 import org.springframework.boot.CommandLineRunner;

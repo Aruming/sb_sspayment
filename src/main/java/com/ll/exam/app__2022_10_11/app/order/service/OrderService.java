@@ -1,4 +1,4 @@
-package com.ll.exam.app__2022_10_11.app.order.serice;
+package com.ll.exam.app__2022_10_11.app.order.service;
 
 import com.ll.exam.app__2022_10_11.app.cart.entity.CartItem;
 import com.ll.exam.app__2022_10_11.app.cart.service.CartService;
